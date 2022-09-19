@@ -1,6 +1,6 @@
 # Hi, folks! 👋
 
-I am Dmitriy Miroshnichenko, and i am frontend developer. 😉 At the moment i am developing websites for commercial needs. Currently working on [React](https://reactjs.org/), [Next](https://nextjs.org/) and [Strapi CMS](https://strapi.io/).
+I am Dmitriy Miroshnichenko, and i am frontend developer. 😉 At the moment developing websites for commercial needs. Currently working on [React](https://reactjs.org/), [Next](https://nextjs.org/) and [Strapi CMS](https://strapi.io/).
 
 ### ⚡ Technologies
 
